@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|c:\\users\\elvin\\source\\repos\\consoleapp28\\consoleapp28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|solutionrelative:consoleapp28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|c:\\users\\elvin\\source\\repos\\consoleapp28\\consoleapp28\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|solutionrelative:consoleapp28\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|c:\\users\\elvin\\source\\repos\\consoleapp28\\consoleapp28\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|solutionrelative:consoleapp28\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|c:\\users\\elvin\\source\\repos\\consoleapp28\\consoleapp28\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B59E9D-9C44-4BAC-AA2C-503759CED120}|ConsoleApp28\\ConsoleApp28.csproj|solutionrelative:consoleapp28\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp28\\Product.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Product.cs",
+              "RelativeToolTip": "ConsoleApp28\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:46:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Market.cs",
+              "RelativeDocumentMoniker": "ConsoleApp28\\Market.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Market.cs",
+              "RelativeToolTip": "ConsoleApp28\\Market.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:45:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp28\\Customer.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp28\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:45:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp28\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp28\\ConsoleApp28\\Program.cs",
+              "RelativeToolTip": "ConsoleApp28\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:45:00.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
